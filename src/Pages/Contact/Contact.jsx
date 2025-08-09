@@ -226,7 +226,7 @@ const Contact = () => {
                   variant="default"
                 >
                   <a
-                    href="https://www.fiverr.com/yourusername"
+                    href="https://www.fiverr.com/mint_mini"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
