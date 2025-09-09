@@ -127,7 +127,7 @@ export default function Banner() {
           <div className="relative group mb-10">
             <div className="overflow-hidden rounded-2xl relative">
               <img
-                src="https://i.ibb.co/YFYx68TT/1723117614965-psd-new.png"
+                src="https://i.ibb.co.com/XkFbQQxy/mohin-removebg-preview.png"
                 alt="Gazi Alauddin - Tech Entrepreneur & CEO"
                 className="relative mb-20 z-10 object-contain md:w-5/7 h-auto mx-auto"
               />
